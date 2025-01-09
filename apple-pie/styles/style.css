@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
   color: #202020;
 }
 
@@ -26,7 +27,6 @@
   margin: 0 auto;
   padding: 60px 0 30px 0;
   border-bottom: 1px solid #202020;
-  font-size: 20px;
   margin-bottom: 10px;
   line-height: 1.5;
 }
